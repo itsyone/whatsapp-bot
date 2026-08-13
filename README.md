@@ -2,7 +2,7 @@
   <img src="./assets/banner1.webp" width="100%" alt="Ryo Yamada Header" />
 </p>
 
-# Ryo Yamada — Premium WhatsApp Bot 🎸
+# Ryo Yamada — WhatsApp Bot 🎸
 > **The quiet bassist of Kessoku Band, now managing your WhatsApp groups, economy, and AI interactions.**
 
 <p align="center">
